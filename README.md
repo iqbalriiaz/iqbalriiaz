@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iqbalriiaz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iqbalriiaz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iqbalriiaz&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalriiaz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
